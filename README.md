@@ -1,17 +1,16 @@
 # Olá, eu sou o Jailson Soares
 
-<a href='https://github.com/anuraghazra/github-readme-stats'>
+<div>
+  <a href='https://github.com/anuraghazra/github-readme-stats'>
   <img
-     align='center'
-     src='https://github-readme-stats.vercel.app/api?username=jailsonsf&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=dracula'
-   />
-</a>
-<a href='https://github.com/anuraghazra/github-readme-stats'>
+     height="180rem"
+     src='https://github-readme-stats.vercel.app/api?username=jailsonsf&show_icons=true&count_private=true&include_all_commits=true&theme=dracula'
+  />
   <img
-     align='center'
-     src='https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonsf&layout=compact&theme=dracula'
+     height="180rem"
+     src='https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonsf&layout=compact&langs_count=16&theme=dracula'
    />
-</a>
+</div>
 
 ## Skills
 <div>
