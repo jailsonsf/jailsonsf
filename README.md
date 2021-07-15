@@ -14,7 +14,7 @@
 </p>
 
 <div>
-  <a href='https://github.com/anuraghazra/github-readme-stats'>
+<!--   <a href='https://github.com/anuraghazra/github-readme-stats'> -->
   <img
      height="180rem"
      src='https://github-readme-stats.vercel.app/api?username=jailsonsf&show_icons=true&count_private=true&include_all_commits=true&theme=dracula'
@@ -24,5 +24,5 @@
      src='https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonsf&layout=compact&langs_count=16&theme=dracula'
    />
 </div>
-  
+
 ![Snake animation](https://github.com/jailsonsf/jailsonsf/blob/output/github-contribution-grid-snake.svg)
