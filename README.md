@@ -17,12 +17,14 @@ Oi, eu sou o **Jailson**.
 
 **Languages and Tools:**
 
-<code><a href="https://flutter.dev/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" height="20"/></a></code>
-<code><a href="https://dart.dev" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart lang" height="20"/></a></code>
-<code><a href="https://www.ruby-lang.org/pt/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby lang" height="20"/></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="20"/></a></code>
-<code><a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20"/></a></code>
-<code><a href="https://git-scm.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="20"/></a></code>
+<div>
+   <a href="https://flutter.dev/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" height="20"/></a>
+   <a href="https://dart.dev" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart lang" height="20"/></a>
+   <a href="https://www.ruby-lang.org/pt/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby lang" height="20"/></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="20"/></a>
+   <a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20"/></a>
+   <a href="https://git-scm.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="20"/></a>
+</div>
 
 ----
 
