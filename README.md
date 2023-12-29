@@ -1,27 +1,20 @@
 <h1>Jailson Soares</h1>
 
-<a href="https://linkedin.com/in/jailsonsoares/" target="_blank" >
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="22px" />
-</a>
-<a href="https://dev.to/jailsonsf" target="_blank" >
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" width="22px" />
-</a>
-</br>
+Oi, eu sou o **Jailson**.<br>
+Sou desenvolvedor de software e graduando em ciência da
+computação com bastante capacidade de resolver problemas,
+curiosidade por tecnologia e vontade de sempre ir atrás de novos
+desafios.<br>
+Minha área de foco nos últimos anos tem sido o desenvolvimento Full
+Stack com Ruby on Rails.
 
-----
-
-Oi, eu sou o **Jailson**.
-- Sou desenvolvedor de software Full Stack
-- Apaixonado por tecnologia
-- Trabalho com **Ruby**, **Ruby on Rails**
-
-**Languages and Tools:**
-
+**Tecnologias:**
 <div>
-   <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" height="40"/></a>
-   <a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart lang" height="40"/></a>
-   <a href="https://www.ruby-lang.org/pt/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby lang" height="40"/></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/></a>
-   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/></a>
-   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/rspec/rspec-original.svg" alt="RSpec" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40"/>
 </div>
